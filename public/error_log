@@ -1,0 +1,1 @@
+[27-Aug-2021 09:33:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/kwintechservices/public_html/public/res4.php on line 11
